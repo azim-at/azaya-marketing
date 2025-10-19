@@ -59,7 +59,6 @@ function App() {
          <section id="blog">
            <Blog />
         </section>
-          <Pricing />
          <section id="contact">
             <ContactUs />
         </section>
