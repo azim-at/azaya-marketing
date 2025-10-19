@@ -8,7 +8,6 @@ function Hero() {
                 <div className="layer-one"></div>
                 <div className="container">
                     <div className="row align-items-center">
-                        {/* Left Content */}
                         <div className="content-column col-lg-7 col-md-12">
                             <div className="inner-column">
                                 <h1 className="display-5 fw-bold mb-3 text-white">
@@ -75,11 +74,9 @@ function Hero() {
                             </div>
                         </div>
 
-                        {/* Mobile Carousel */}
                         <div className="carousel-column col-lg-5 col-md-12 col-sm-12">
                             <div className="inner-column">
                                 <div className="slider-outer position-relative">
-                                    {/* Mobile Frame */}
                                     <div
                                         className="slides-box position-relative"
                                         style={{

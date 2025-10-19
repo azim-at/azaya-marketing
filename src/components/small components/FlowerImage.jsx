@@ -7,7 +7,6 @@ const FlowerImage = () => {
     const handleScroll = () => {
       const scrollY = window.scrollY;
       if (flowerRef.current) {
-        // Adjust scroll speed by dividing
         const offset = scrollY * 0.3; 
         flowerRef.current.style.transform = `translateX(${offset}px)`; 
       }

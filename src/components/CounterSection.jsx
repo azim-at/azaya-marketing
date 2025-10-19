@@ -8,7 +8,7 @@ useEffect(() => {
   const handleScroll = () => {
     const scrollY = window.scrollY;
     if (flowerRef.current) {
-      const offset = scrollY * 0.3; // adjust speed
+      const offset = scrollY * 0.3; 
       flowerRef.current.style.transform = `translateX(${offset}px)`;
     }
   };

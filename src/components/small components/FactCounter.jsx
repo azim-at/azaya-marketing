@@ -3,8 +3,8 @@ import { useInView } from "react-intersection-observer";
 
 const FactCounter = ({ color, count }) => {
   const { ref, inView } = useInView({
-    triggerOnce: true, // count only once
-    threshold: 0.3, // start when 30% visible
+    triggerOnce: true, 
+    threshold: 0.3,
   });
 
   return (
