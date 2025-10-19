@@ -63,8 +63,8 @@ function Pricing() {
                                                     </div>
 
                                                     <div className="lower-box">
-                                                        <a href="" className="theme-btn plan-btn">choose plan</a>
-                                                        <a href="" className="trial">Get a free trial now!</a>
+                                                        <a href="#!" className="theme-btn plan-btn">choose plan</a>
+                                                        <a href="#!" className="trial">Get a free trial now!</a>
                                                     </div>
                                                 </div>
 
@@ -104,8 +104,8 @@ function Pricing() {
                                                     </div>
 
                                                     <div className="lower-box">
-                                                        <a href="" className="theme-btn plan-btn">choose plan</a>
-                                                        <a href="" className="trial">Get a free trial now!</a>
+                                                        <a href="#!" className="theme-btn plan-btn">choose plan</a>
+                                                        <a href="#!" className="trial">Get a free trial now!</a>
                                                     </div>
                                                 </div>
 
@@ -145,8 +145,8 @@ function Pricing() {
                                                     </div>
 
                                                     <div className="lower-box">
-                                                        <a href="" className="theme-btn plan-btn">choose plan</a>
-                                                        <a href="" className="trial">Get a free trial now!</a>
+                                                        <a href="#!" className="theme-btn plan-btn">choose plan</a>
+                                                        <a href="#!" className="trial">Get a free trial now!</a>
                                                     </div>
                                                 </div>
 

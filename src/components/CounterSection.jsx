@@ -45,10 +45,10 @@ useEffect(() => {
                                         Download a trial version to make life easy!
                                     </div>
                                     <div className="google-btns">
-                                        <a href="">
+                                        <a href="#!">
                                             <img src="https://html.themexriver.com/topapp/images/icons/google.png" alt="" />
                                         </a>
-                                         <a href="">
+                                         <a href="#!">
                                             <img src="https://html.themexriver.com/topapp/images/icons/app.png" alt="" />
                                         </a>
                                     </div>

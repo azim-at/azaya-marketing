@@ -15,8 +15,8 @@ function ContactUs () {
 							</li>
 							<li>
 								<strong>Call for help:</strong>
-								<a href="tel:734-697-2907">(734) 697-2907</a><br/>
-								<a href="tel:843-971-1906">(843) 971-1906</a>
+								<a href="#!">(734) 697-2907</a><br/>
+								<a href="#!">(843) 971-1906</a>
 							</li>
 							<li>
 								<strong>Mail us:</strong>

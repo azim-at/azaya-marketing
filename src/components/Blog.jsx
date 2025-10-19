@@ -18,7 +18,7 @@ function Blog() {
 				<div class="news-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInLeft animated">
 						<div class="image">
-							<a href="blog-single.html"><img src="https://html.themexriver.com/topapp/images/resource/news-1.png" alt="" /></a>
+							<a href="#!"><img src="https://html.themexriver.com/topapp/images/resource/news-1.png" alt="" /></a>
 						</div>
 						<div class="lower-content">
 							<ul class="post-meta ps-0">
@@ -26,7 +26,7 @@ function Blog() {
                                    <i class="fa-solid fa-calendar pe-3"></i>September 12, 2020</span></li>
 								<li><span><i class="fa-solid fa-user-tie pe-3"></i>Admin</span></li>
 							</ul>
-							<h3><a href="blog-single.html">Revitalising your people in a retail downturn...</a></h3>
+							<h3><a href="#!">Revitalising your people in a retail downturn...</a></h3>
 							<div class="text">Lorem Ipsum is simply dummy text the printing and setting industry. Lorm Ipsum has been the industry's stanard dummy text ever.</div>
 						</div>
 					</div>
@@ -35,7 +35,7 @@ function Blog() {
 				<div class="news-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp animated" >
 						<div class="image">
-							<a href="blog-single.html"><img src="https://html.themexriver.com/topapp/images/resource/news-2.png" alt="" /></a>
+							<a href="#!"><img src="https://html.themexriver.com/topapp/images/resource/news-2.png" alt="" /></a>
 						</div>
 						<div class="lower-content">
 							<ul class="post-meta ps-0">
@@ -43,7 +43,7 @@ function Blog() {
                                    <i class="fa-solid fa-calendar pe-3"></i>September 12, 2020</span></li>
 								<li><span><i class="fa-solid fa-user-tie pe-3"></i>Admin</span></li>
 							</ul>
-							<h3><a href="blog-single.html">Revitalising your people in a retail downturn...</a></h3>
+							<h3><a href="#!">Revitalising your people in a retail downturn...</a></h3>
 							<div class="text">Lorem Ipsum is simply dummy text the printing and setting industry. Lorm Ipsum has been the industry's stanard dummy text ever.</div>
 						</div>
 					</div>
@@ -52,7 +52,7 @@ function Blog() {
 				<div class="news-block col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInRight animated">
 						<div class="image">
-							<a href="blog-single.html"><img src="https://html.themexriver.com/topapp/images/resource/news-3.png" alt="" /></a>
+							<a href="#!"><img src="https://html.themexriver.com/topapp/images/resource/news-3.png" alt="" /></a>
 						</div>
 						<div class="lower-content">
 							<ul class="post-meta ps-0">
@@ -60,7 +60,7 @@ function Blog() {
                                    <i class="fa-solid fa-calendar pe-3"></i>September 12, 2020</span></li>
 								<li><span><i class="fa-solid fa-user-tie pe-3"></i>Admin</span></li>
 							</ul>
-							<h3><a href="blog-single.html">Revitalising your people in a retail downturn...</a></h3>
+							<h3><a href="#!">Revitalising your people in a retail downturn...</a></h3>
 							<div class="text">Lorem Ipsum is simply dummy text the printing and setting industry. Lorm Ipsum has been the industry's stanard dummy text ever.</div>
 						</div>
 					</div>

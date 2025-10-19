@@ -12,7 +12,7 @@ function Footer() {
 							</div>
 							<div class="text">Lorem Ipsum is simply dummy text <br /> of the printing and type.</div>
 							<div class="paypall mt-3">
-								<a href="#"><img src="https://html.themexriver.com/topapp/images/icons/paypall.png" alt="" /></a>
+								<a href="#!"><img src="https://html.themexriver.com/topapp/images/icons/paypall.png" alt="" /></a>
 							</div>
 						</div>
 					</div>
@@ -22,20 +22,19 @@ function Footer() {
 							<div class="row clearfix">
 								<div class="column col-lg-6 col-md-6 col-xs-12">
 									<ul>
-										<li><a href="#">Home</a></li>
-										<li><a href="#">Services</a></li>
-										<li><a href="#">About us</a></li>
-										<li><a href="#">Testimonials</a></li>
-										<li><a href="#">News</a></li>
+										<li><a href="#!">Services</a></li>
+										<li><a href="#!">About us</a></li>
+										<li><a href="#!">Testimonials</a></li>
+										<li><a href="#!">News</a></li>
 									</ul>
 								</div>
 								<div class="column col-lg-6 col-md-6 col-xs-12">
 									<ul>
-										<li><a href="#">Team</a></li>
-										<li><a href="#">FAQ</a></li>
-										<li><a href="#">Gallery</a></li>
-										<li><a href="#">Contact</a></li>
-										<li><a href="#">Portfolio</a></li>
+										<li><a href="#!">Team</a></li>
+										<li><a href="#!">FAQ</a></li>
+										<li><a href="#!">Gallery</a></li>
+										<li><a href="#!">Contact</a></li>
+										<li><a href="#!">Portfolio</a></li>
 									</ul>
 								</div>
 							</div>
@@ -55,14 +54,14 @@ function Footer() {
 								</form>
 							</div>
 							<div class="btns">
-								<a href="#"><img src="https://html.themexriver.com/topapp/images/icons/app-1.png" alt="" /></a>
-								<a href="#"><img src="https://html.themexriver.com/topapp/images/icons/google-1.png" alt="" /></a>
+								<a href="#!"><img src="https://html.themexriver.com/topapp/images/icons/app-1.png" alt="" /></a>
+								<a href="#!"><img src="https://html.themexriver.com/topapp/images/icons/google-1.png" alt="" /></a>
 							</div>
 							<ul class="social-icon-one">
-								<li class="facebook"><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
-								<li class="twitter"><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-								<li class="dribbble"><a href="#"><i class="fa-brands fa-dribbble"></i></a></li>
-								<li class="behance"><a href="#"><i class="fa-brands fa-behance"></i></a></li>
+								<li class="facebook"><a href="#!"><i class="fa-brands fa-facebook"></i></a></li>
+								<li class="twitter"><a href="#!"><i class="fa-brands fa-x-twitter"></i></a></li>
+								<li class="dribbble"><a href="#!"><i class="fa-brands fa-dribbble"></i></a></li>
+								<li class="behance"><a href="#!"><i class="fa-brands fa-behance"></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -77,9 +76,9 @@ function Footer() {
 					</div>
 					<div class="pull-right">
 						<ul class="footer-nav">
-							<li><a href="#">Help</a></li>
-							<li><a href="#">Terms &amp; Conditions</a></li>
-							<li><a href="#">Privacy</a></li>
+							<li><a href="#!">Help</a></li>
+							<li><a href="#!">Terms &amp; Conditions</a></li>
+							<li><a href="#!">Privacy</a></li>
 						</ul>
 					</div>
 				</div>

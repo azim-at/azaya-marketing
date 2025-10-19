@@ -22,7 +22,7 @@ function Features() {
                                     <li>Identfy the most trending sessions & exibitors.</li>
                                     <li>Identfy the most trending sessions & exibitors.</li>
                                 </ul>
-                                <a href="" className="theme-btn btn">Contact Us</a>
+                                <a href="#!" className="theme-btn btn">Contact Us</a>
                             </div>
                         </div>
                     </div>

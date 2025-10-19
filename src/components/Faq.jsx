@@ -12,7 +12,7 @@ function Faq() {
 				
 					<div className="faq-column col-lg-6 col-md-12 col-sm-12">
 						<h3>What should I include in App?</h3>
-						<div className="text">Lorem ipsum dolor sit amet consecte tur adipiscing elit sed <a href="#">eiusmod tempor incididunt</a> ut labore.</div>
+						<div className="text">Lorem ipsum dolor sit amet consecte tur adipiscing elit sed <a href="#!">eiusmod tempor incididunt</a> ut labore.</div>
 					</div>
 					
 					<div className="faq-column col-lg-6 col-md-12 col-sm-12">
@@ -32,16 +32,16 @@ function Faq() {
 					
 					<div className="faq-column col-lg-6 col-md-12 col-sm-12">
 						<h3>Does disabling apps free up space?</h3>
-						<div className="text">Lorem ipsum dolor sit amet consecte tur adipiscing elit sed <a href="#">eiusmod tempor incididunt</a> ut labore.</div>
+						<div className="text">Lorem ipsum dolor sit amet consecte tur adipiscing elit sed <a href="#!">eiusmod tempor incididunt</a> ut labore.</div>
 					</div>
 					
 					<div className="faq-column col-lg-6 col-md-12 col-sm-12">
 						<h3>Why are mobile apps important?</h3>
-						<div className="text">Lorem ipsum dolor sit amet consecte tur adipiscing elit sed do <a href="#">eiusmod tempor incididunt</a> ut labore.</div>
+						<div className="text">Lorem ipsum dolor sit amet consecte tur adipiscing elit sed do <a href="#!">eiusmod tempor incididunt</a> ut labore.</div>
 					</div>
 					
 				</div>
-				<div className="question">Still have a question? <a href="#">Contact us:</a> <strong>topapp@info.com</strong></div>
+				<div className="question">Still have a question? <a href="#!">Contact us:</a> <strong>topapp@info.com</strong></div>
 				
 			</div>
 		</div>

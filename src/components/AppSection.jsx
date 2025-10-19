@@ -41,7 +41,7 @@ function AppSection() {
                                         <div className="text">
                                             Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry.
                                         </div>
-                                        <a href="" className="theme-btn btn-style-two">Contact Team</a>
+                                        <a href="#!" className="theme-btn btn-style-two">Contact Team</a>
                                     </div>
                                 </div>
                             </div>
@@ -53,7 +53,7 @@ function AppSection() {
                                         <div className="text">
                                             Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry.
                                         </div>
-                                        <a href="" className="theme-btn btn-style-four">Read More</a>
+                                        <a href="#!" className="theme-btn btn-style-four">Read More</a>
                                     </div>
                                 </div>
                                 <div className="image-column col-lg-6 col-md-12 col-sm-12">

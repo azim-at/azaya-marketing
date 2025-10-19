@@ -69,7 +69,7 @@ function IntegrationSection() {
 			
 		</div>
         <div className="btn-box text-center">
-                <a href="" className="theme-btn btn-style-five">All Integretions</a>
+                <a href="#!" className="theme-btn btn-style-five">All Integretions</a>
             </div>
         </div>
         </div>
