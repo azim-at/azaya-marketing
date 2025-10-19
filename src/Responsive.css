@@ -83,34 +83,7 @@
     .pricing-section {
         padding: 50px 0 50px 0;
     }
-}
-
-@media screen and (max-width:600px) {
-    .steps-section .patern-layer-one {
-        display: none;
-    }
-    .pricing-tabs .tabs-content .patern-layer-three {
-        display: none;
-    }
-    .featured-section .blocks-column .inner-column .cloud-icon {
-        display: none;
-    }
-}
-
-@media screen and (max-width:1024px) {
-    .hero-section .content-column .video-box {
-        display: none;
-    }
- }  
-
- @media only screen and (max-width: 479px) {
-    .subscribe-form .form-group input[type="submit"], .subscribe-form button {
-        position: relative;
-        margin-top: 15px;
-        width: 100%;
-        border-radius: 5px;
-    }
-    .contact-section .info-column .patern-layer-one {
+        .contact-section .info-column .patern-layer-one {
         display: none;
     }
     .contact-section .info-column .patern-layer-three {
@@ -134,6 +107,35 @@
      .counter-section .patern-layer-four {
         display: none;
     }
+}
+
+@media screen and (max-width:600px) {
+    .steps-section .patern-layer-one {
+        display: none;
+    }
+    .pricing-tabs .tabs-content .patern-layer-three {
+        display: none;
+    }
+    .featured-section .blocks-column .inner-column .cloud-icon {
+        display: none;
+    }
+    
+}
+
+@media screen and (max-width:1024px) {
+    .hero-section .content-column .video-box {
+        display: none;
+    }
+ }  
+
+ @media only screen and (max-width: 479px) {
+    .subscribe-form .form-group input[type="submit"], .subscribe-form button {
+        position: relative;
+        margin-top: 15px;
+        width: 100%;
+        border-radius: 5px;
+    }
+
     .app-block .inner-box .image-column .small-image {
         display: none;
     }
