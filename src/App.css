@@ -39,7 +39,7 @@ li {
       list-style: none;
 }
 
-img{
+img {
 	display:inline-block;
 	max-width:100%;
 }
@@ -142,6 +142,9 @@ img{
     display: inline-block;
     text-decoration: none;
     padding-bottom: 6px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0px;
 }
 
 
@@ -432,7 +435,7 @@ img{
 	border-radius:22px!important;
 	width:100%;
 	display:block;
-  width: 264px;
+    width: 264px;
 }
 
 /* Featured Section */
@@ -795,15 +798,6 @@ ease;
     background-image: linear-gradient(to right, #31c551 0%, #77e34b 100%);
 }
 
-.section-title h2 {
-    position: relative;
-    color: #373a5b;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.4em;
-    margin-top: 12px;
-    z-index: 1;
-}
 
 .steps-section .carousel-column .carousel-inner .content img {
     position: relative;
@@ -915,8 +909,21 @@ ease;
     left: 0;
 }
 
+@keyframes dotFloat {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-80px); /* moves up */
+  }
+  100% {
+    transform: translateY(0); /* back to start */
+  }
+}
+
+
 .ct-dot-animated .ct-dot-item:nth-child(1) span {
-    animation: 30s linear 0s infinite normal none running dotAnimatedBottomToTop1;
+    animation: dotFloat 6s ease-in-out infinite;
 }
 
 .ct-dot-animated .ct-dot-item span {
@@ -938,7 +945,7 @@ ease;
     background-color: rgb(255, 231, 18);
     background-image: linear-gradient(to left, rgb(255, 231, 18), rgb(237, 88, 90));
     bottom: 64%;
-    animation: 30s linear 0s infinite normal none running dotAnimatedBottomToTop2;
+    animation: dotFloat 7s ease-in-out infinite;
 }
 
 .ct-dot-animated .ct-dot-item:nth-child(3) {
@@ -949,7 +956,7 @@ ease;
     background-color: rgb(247, 152, 254);
     background-image: linear-gradient(to left, rgb(247, 152, 254), rgb(97, 43, 225));
     bottom: 5%;
-    animation: 30s linear 0s infinite normal none running dotAnimatedBottomToTop3;
+    animation: dotFloat 5.5s ease-in-out infinite;
 }
 
 .ct-dot-animated .ct-dot-item:nth-child(4) {
@@ -960,7 +967,7 @@ ease;
     background-color: rgb(216, 255, 9);
     background-image: linear-gradient(to left, rgb(216, 255, 9), rgb(75, 161, 22));
     bottom: 78%;
-    animation: 35s linear 0s infinite normal none running dotAnimatedBottomToTop4;
+    animation: dotFloat 8s ease-in-out infinite;
 }
 
 .ct-dot-animated .ct-dot-item:nth-child(5) {
@@ -971,7 +978,7 @@ ease;
     background-color: rgb(255, 231, 18);
     background-image: linear-gradient(to left, rgb(255, 231, 18), rgb(237, 88, 90));
     bottom: 46%;
-    animation: 30s linear 0s infinite normal none running dotAnimatedBottomToTop5;
+    animation: dotFloat 6.5s ease-in-out infinite;
 }
 
 .ct-dot-animated .ct-dot-item:nth-child(6) {
@@ -983,7 +990,7 @@ ease;
     background-color: rgb(111, 208, 255);
     background-image: linear-gradient(to left, rgb(111, 208, 255), rgb(5, 154, 247));
     bottom: 27%;
-    animation: 30s linear 0s infinite normal none running dotAnimatedBottomToTop6;
+    animation: dotFloat 7.5s ease-in-out infinite;
 }
 
 .app-block {
@@ -1185,15 +1192,6 @@ ease;
     background-image: linear-gradient(to right, #9426d5 0%, #e642dc 100%);
 }
 
-.section-title h2 {
-    position: relative;
-    color: #373a5b;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.4em;
-    margin-top: 12px;
-    z-index: 1;
-}
 
 .counter-section .content-column .text {
     position: relative;
@@ -1450,15 +1448,6 @@ ease;
     background-image: linear-gradient(to right, #9426d5 0%, #e642dc 100%);
 }
 
-.section-title h2 {
-    position: relative;
-    color: #373a5b;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.4em;
-    margin-top: 12px;
-    z-index: 1;
-}
 
 .pricing-tabs .title-column {
     position: relative;
