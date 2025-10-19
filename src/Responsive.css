@@ -1,0 +1,188 @@
+@media screen and (max-width:990px) {
+    .hero-section .layer-one {
+        width: 100%;
+        background-position: center;
+    }
+    .hero-section .content-column .inner-column {
+        padding-top: 0px;
+    }
+    .hero-section .content-column .video-box {
+        display: none;
+    }
+    .hero-section .carousel-column {
+        margin-top: 50px;
+    }
+    .counter-section .flower-image {
+        display: none;
+    }
+    
+    .steps-section .carousel-column .carousel-inner {
+        margin-left: auto;
+    }
+
+    .apps-section {
+        padding: 50px 0 50px 0;
+    }
+
+    .app-block .inner-box .content-column .inner-column {
+        margin-top: 20px;
+    }
+
+    .featured-section {
+        padding: 50px 0 50px 0;
+    }
+
+    .featured-block.four {
+        transform: translateX(0px) rotate(0deg);
+    }
+    .featured-section .blocks-column .inner-column .side-image {
+        display: none;
+    }
+    .counter-section .content-column .inner-column {
+        padding-top: 50px;
+    }
+    .counter-section {
+        padding: 50px 0 50px 0;
+    }
+    .fact-counter .column:nth-child(1) {
+        margin-bottom: 20px;
+    }
+    .fact-counter .column:nth-child(2) {
+        top: 0;
+        margin-bottom: 20px;
+    }
+    .fact-counter .column:nth-child(3) {
+        margin-bottom: 20px;
+    }
+    .fact-counter .column:nth-child(4) {
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+    .blog-section {
+        padding: 80px 0 80px 0;
+    }
+    .pull-right {
+        float: left;
+        margin-top: 20px;
+    }
+    .contact-section .info-column .info-list li {
+        font-size: 14px;
+    }
+    .clearfix .pull-right {
+        margin-top: 00px;
+    }
+    .contact-section {
+          padding: 50px 0 50px 0;
+    }
+    .contact-section .info-column .inner-column {
+        padding: 20px 0 20px 0;
+    }
+    .subscribe-section {
+          padding: 50px 0 50px 0;
+    }
+    .pricing-section {
+        padding: 50px 0 50px 0;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .steps-section .patern-layer-one {
+        display: none;
+    }
+    .pricing-tabs .tabs-content .patern-layer-three {
+        display: none;
+    }
+    .featured-section .blocks-column .inner-column .cloud-icon {
+        display: none;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .hero-section .content-column .video-box {
+        display: none;
+    }
+ }  
+
+ @media only screen and (max-width: 479px) {
+    .subscribe-form .form-group input[type="submit"], .subscribe-form button {
+        position: relative;
+        margin-top: 15px;
+        width: 100%;
+        border-radius: 5px;
+    }
+    .contact-section .info-column .patern-layer-one {
+        display: none;
+    }
+    .contact-section .info-column .patern-layer-three {
+        display: none;
+    }
+    .contact-section .info-column .info-list {
+        margin-left: 0;
+    }
+    .contact-section .info-column .info-list li {
+        padding-left: 0;
+    }
+    .counter-section .patern-layer-one {
+        display: none;
+    }
+     .counter-section .patern-layer-two {
+        display: none;
+    }
+     .counter-section .patern-layer-three {
+        display: none;
+    }
+     .counter-section .patern-layer-four {
+        display: none;
+    }
+    .app-block .inner-box .image-column .small-image {
+        display: none;
+    }
+    .text {
+        margin-top: 20px;
+    }
+
+}
+
+@media (max-width: 768px) {
+  .scroll-to-top {
+    bottom: 20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .scroll-to-top {
+    bottom: 15px;
+    right: 15px;
+    width: 35px;
+    height: 35px;
+    font-size: 14px;
+    box-shadow: 0 3px 10px rgba(18, 16, 19, 0.3);
+  }
+}
+
+@media only screen and (max-width: 479px) {
+    .hero-section .newsletter-form .form-group {
+        padding-right: 0;
+    }
+    .hero-section .newsletter-form .form-group button {
+        position: relative;
+        margin-top: 15px;
+        width: 100%;
+    }
+    .text-white {
+        font-size: 16px;
+    }
+    h1 {
+        font-size: 30px!important;
+    }
+    h2 {
+        font-size: 24px!important;
+    }
+    .section-title {
+        margin-top: 40px;
+    }
+}
