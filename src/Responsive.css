@@ -128,22 +128,6 @@
     }
  }  
 
- @media only screen and (max-width: 479px) {
-    .subscribe-form .form-group input[type="submit"], .subscribe-form button {
-        position: relative;
-        margin-top: 15px;
-        width: 100%;
-        border-radius: 5px;
-    }
-
-    .app-block .inner-box .image-column .small-image {
-        display: none;
-    }
-    .text {
-        margin-top: 20px;
-    }
-
-}
 
 @media (max-width: 768px) {
   .scroll-to-top {
@@ -155,16 +139,6 @@
   }
 }
 
-@media (max-width: 480px) {
-  .scroll-to-top {
-    bottom: 15px;
-    right: 15px;
-    width: 35px;
-    height: 35px;
-    font-size: 14px;
-    box-shadow: 0 3px 10px rgba(18, 16, 19, 0.3);
-  }
-}
 
 @media only screen and (max-width: 479px) {
     .hero-section .newsletter-form .form-group {
@@ -187,4 +161,25 @@
     .section-title {
         margin-top: 40px;
     }
+    .subscribe-form .form-group input[type="submit"], .subscribe-form button {
+        position: relative;
+        margin-top: 15px;
+        width: 100%;
+        border-radius: 5px;
+    }
+
+    .app-block .inner-box .image-column .small-image {
+        display: none;
+    }
+    .text {
+        margin-top: 20px;
+    }
+    .scroll-to-top {
+    bottom: 15px;
+    right: 15px;
+    width: 35px;
+    height: 35px;
+    font-size: 14px;
+    box-shadow: 0 3px 10px rgba(18, 16, 19, 0.3);
+  }
 }
